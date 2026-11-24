@@ -1,0 +1,55 @@
+[
+  {
+    "id": "c1",
+    "name": "Warner Bros. Pictures",
+    "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Warner_Bros._Pictures_2023_%28Alt%29.svg/500px-Warner_Bros._Pictures_2023_%28Alt%29.svg.png",
+    "foundedYear": 1923,
+    "country": "USA",
+    "headquarters": "Burbank, California",
+    "description": "One of the oldest Hollywood studios, home to the Dark Knight trilogy and many Christopher Nolan films."
+  },
+  {
+    "id": "c2",
+    "name": "Paramount Pictures",
+    "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paramount_A_Skydance_Company.svg/500px-Paramount_A_Skydance_Company.svg.png",
+    "foundedYear": 1912,
+    "country": "USA",
+    "headquarters": "Hollywood, California",
+    "description": "The longest-operating major studio still based in Hollywood."
+  },
+  {
+    "id": "c3",
+    "name": "Universal Pictures",
+    "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/500px-Universal_Pictures_logo.svg.png",
+    "foundedYear": 1912,
+    "country": "USA",
+    "headquarters": "Universal City, California",
+    "description": "Studio behind blockbuster franchises and, more recently, Oppenheimer."
+  },
+  {
+    "id": "c4",
+    "name": "Legendary Pictures",
+    "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Legendary_Entertainment_logo_variant.svg/500px-Legendary_Entertainment_logo_variant.svg.png",
+    "foundedYear": 2000,
+    "country": "USA",
+    "headquarters": "Burbank, California",
+    "description": "Production company known for large-scale genre films such as Dune."
+  },
+  {
+    "id": "c5",
+    "name": "A24",
+    "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A24_logo.svg/500px-A24_logo.svg.png",
+    "foundedYear": 2012,
+    "country": "USA",
+    "headquarters": "New York City, New York",
+    "description": "Independent studio celebrated for distinctive, director-driven films."
+  },
+  {
+    "id": "c6",
+    "name": "Lionsgate",
+    "foundedYear": 1997,
+    "country": "Canada",
+    "headquarters": "Santa Monica, California",
+    "description": "Independent studio. No movies in this mock dataset — useful to demo the empty state."
+  }
+]

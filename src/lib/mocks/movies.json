@@ -1,0 +1,244 @@
+[
+  {
+    "id": "m1",
+    "title": "Inception",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "year": 2010,
+    "runtime": 148,
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "overview": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.",
+    "castIds": [
+      "a1",
+      "a5",
+      "a4",
+      "a9"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m2",
+    "title": "Interstellar",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "year": 2014,
+    "runtime": 169,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "rating": 8.7,
+    "director": "Christopher Nolan",
+    "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "castIds": [
+      "a2",
+      "a6",
+      "a9"
+    ],
+    "companyId": "c2"
+  },
+  {
+    "id": "m3",
+    "title": "The Dark Knight",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "year": 2008,
+    "runtime": 152,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "overview": "Batman faces the Joker, a criminal mastermind who wants to plunge Gotham City into anarchy.",
+    "castIds": [
+      "a3",
+      "a9",
+      "a4"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m4",
+    "title": "The Dark Knight Rises",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+    "year": 2012,
+    "runtime": 164,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 8.4,
+    "director": "Christopher Nolan",
+    "overview": "Eight years after the Joker's reign, Batman returns to protect Gotham from the terrorist Bane.",
+    "castIds": [
+      "a3",
+      "a5",
+      "a6",
+      "a9",
+      "a4"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m5",
+    "title": "Oppenheimer",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+    "year": 2023,
+    "runtime": 180,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.3,
+    "director": "Christopher Nolan",
+    "overview": "The story of J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "castIds": [
+      "a4",
+      "a10"
+    ],
+    "companyId": "c3"
+  },
+  {
+    "id": "m6",
+    "title": "The Wolf of Wall Street",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png",
+    "year": 2013,
+    "runtime": 180,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.2,
+    "director": "Martin Scorsese",
+    "overview": "The rise and fall of stockbroker Jordan Belfort, from wealth to corruption and federal investigation.",
+    "castIds": [
+      "a1",
+      "a7",
+      "a2"
+    ],
+    "companyId": "c2"
+  },
+  {
+    "id": "m7",
+    "title": "Joker",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+    "year": 2019,
+    "runtime": 122,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.4,
+    "director": "Todd Phillips",
+    "overview": "A failed comedian descends into madness and becomes a symbol of chaos in Gotham City.",
+    "castIds": [
+      "a8"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m8",
+    "title": "Dune: Part Two",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg",
+    "year": 2024,
+    "runtime": 166,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "director": "Denis Villeneuve",
+    "overview": "Paul Atreides unites with the Fremen while seeking revenge against those who destroyed his family.",
+    "castIds": [
+      "a10"
+    ],
+    "companyId": "c4"
+  },
+  {
+    "id": "m9",
+    "title": "Mad Max: Fury Road",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+    "year": 2015,
+    "runtime": 120,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": 8.1,
+    "director": "George Miller",
+    "overview": "In a post-apocalyptic wasteland, Max teams up with Furiosa to flee a tyrannical warlord.",
+    "castIds": [
+      "a5"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m10",
+    "title": "The Prestige",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+    "year": 2006,
+    "runtime": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating": 8.5,
+    "director": "Christopher Nolan",
+    "overview": "Two rival stage magicians engage in a dangerous battle to create the ultimate illusion.",
+    "castIds": [
+      "a3",
+      "a9"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m11",
+    "title": "Barbie",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+    "year": 2023,
+    "runtime": 114,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 6.8,
+    "director": "Greta Gerwig",
+    "overview": "Barbie leaves the perfect world of Barbieland and discovers the joys and perils of the real world.",
+    "castIds": [
+      "a7"
+    ],
+    "companyId": "c1"
+  },
+  {
+    "id": "m12",
+    "title": "Midsommar",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png",
+    "year": 2019,
+    "runtime": 148,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 7.1,
+    "director": "Ari Aster",
+    "overview": "A couple travels to Sweden for a midsummer festival that turns increasingly sinister.",
+    "castIds": [
+      "a10"
+    ],
+    "companyId": "c5"
+  }
+]

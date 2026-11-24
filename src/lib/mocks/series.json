@@ -1,0 +1,370 @@
+[
+  {
+    "id": "s1",
+    "title": "Breaking Bad",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/61/BreakingBadS1DVD.jpg",
+    "network": "AMC",
+    "startYear": 2008,
+    "endYear": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 9.5,
+    "overview": "A high school chemistry teacher diagnosed with cancer turns to manufacturing methamphetamine to secure his family's future.",
+    "seasons": [
+      {
+        "number": 1,
+        "year": 2008,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/61/BreakingBadS1DVD.jpg",
+        "episodes": [
+          {
+            "id": "s1-e101",
+            "number": 1,
+            "title": "Pilot",
+            "runtime": 58,
+            "airDate": "2008-01-20",
+            "rating": 9.0,
+            "overview": "Walter White receives a life-changing diagnosis and makes a fateful decision."
+          },
+          {
+            "id": "s1-e102",
+            "number": 2,
+            "title": "Cat's in the Bag...",
+            "runtime": 48,
+            "airDate": "2008-01-27",
+            "rating": 8.6,
+            "overview": "Walt and Jesse deal with the aftermath of their first cook."
+          },
+          {
+            "id": "s1-e103",
+            "number": 3,
+            "title": "...And the Bag's in the River",
+            "runtime": 48,
+            "airDate": "2008-02-10",
+            "rating": 8.7,
+            "overview": "Walt faces a moral dilemma that will define who he becomes."
+          },
+          {
+            "id": "s1-e104",
+            "number": 4,
+            "title": "Cancer Man",
+            "runtime": 48,
+            "airDate": "2008-02-17",
+            "rating": 8.2,
+            "overview": "Walt reveals his illness to the family while Jesse returns home."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "year": 2009,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/BreakingBadS2DVD.jpg",
+        "episodes": [
+          {
+            "id": "s1-e201",
+            "number": 1,
+            "title": "Seven Thirty-Seven",
+            "runtime": 47,
+            "airDate": "2009-03-08",
+            "rating": 8.7,
+            "overview": "Walt and Jesse realize how dangerous their new partner is."
+          },
+          {
+            "id": "s1-e202",
+            "number": 2,
+            "title": "Grilled",
+            "runtime": 46,
+            "airDate": "2009-03-15",
+            "rating": 9.3,
+            "overview": "A desert standoff forces the partners into a desperate escape."
+          },
+          {
+            "id": "s1-e203",
+            "number": 3,
+            "title": "Bit by a Dead Bee",
+            "runtime": 47,
+            "airDate": "2009-03-22",
+            "rating": 8.3,
+            "overview": "Walt and Jesse craft cover stories to explain their absence."
+          },
+          {
+            "id": "s1-e204",
+            "number": 4,
+            "title": "Down",
+            "runtime": 47,
+            "airDate": "2009-03-29",
+            "rating": 8.2,
+            "overview": "Jesse hits rock bottom while Walt's family grows suspicious."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "year": 2010,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/Breaking_Bad_season_3_DVD.png",
+        "episodes": [
+          {
+            "id": "s1-e301",
+            "number": 1,
+            "title": "No Más",
+            "runtime": 47,
+            "airDate": "2010-03-21",
+            "rating": 8.6,
+            "overview": "Walt struggles with the consequences of a tragedy he helped cause."
+          },
+          {
+            "id": "s1-e302",
+            "number": 2,
+            "title": "Caballo sin Nombre",
+            "runtime": 47,
+            "airDate": "2010-03-28",
+            "rating": 8.7,
+            "overview": "Walt tries to reconnect with his family as dangerous visitors arrive."
+          },
+          {
+            "id": "s1-e303",
+            "number": 3,
+            "title": "I.F.T.",
+            "runtime": 47,
+            "airDate": "2010-04-04",
+            "rating": 8.5,
+            "overview": "Walt refuses to leave the family home, and Skyler makes a choice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "title": "True Detective",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/True_Detective_season_1.png",
+    "network": "HBO",
+    "startYear": 2014,
+    "endYear": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 8.9,
+    "overview": "An anthology crime series in which police investigations unearth the personal and professional secrets of those involved.",
+    "seasons": [
+      {
+        "number": 1,
+        "year": 2014,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/True_Detective_season_1.png",
+        "episodes": [
+          {
+            "id": "s2-e101",
+            "number": 1,
+            "title": "The Long Bright Dark",
+            "runtime": 58,
+            "airDate": "2014-01-12",
+            "rating": 9.0,
+            "overview": "Two detectives recount a 1995 ritualistic murder investigation."
+          },
+          {
+            "id": "s2-e102",
+            "number": 2,
+            "title": "Seeing Things",
+            "runtime": 59,
+            "airDate": "2014-01-19",
+            "rating": 8.9,
+            "overview": "Cohle and Hart follow leads to a remote rural church."
+          },
+          {
+            "id": "s2-e103",
+            "number": 3,
+            "title": "The Locked Room",
+            "runtime": 58,
+            "airDate": "2014-01-26",
+            "rating": 9.0,
+            "overview": "A suspect emerges as cracks appear in Hart's personal life."
+          },
+          {
+            "id": "s2-e104",
+            "number": 4,
+            "title": "Who Goes There",
+            "runtime": 60,
+            "airDate": "2014-02-09",
+            "rating": 9.6,
+            "overview": "Cohle goes undercover with a biker gang in a single-take raid."
+          },
+          {
+            "id": "s2-e105",
+            "number": 5,
+            "title": "The Secret Fate of All Life",
+            "runtime": 59,
+            "airDate": "2014-02-16",
+            "rating": 9.5,
+            "overview": "The case takes a decisive turn, with lasting consequences."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "year": 2015,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/True_Detective_season_2.png",
+        "episodes": [
+          {
+            "id": "s2-e201",
+            "number": 1,
+            "title": "The Western Book of the Dead",
+            "runtime": 61,
+            "airDate": "2015-06-21",
+            "rating": 7.8,
+            "overview": "The murder of a city manager brings three officers together."
+          },
+          {
+            "id": "s2-e202",
+            "number": 2,
+            "title": "Night Finds You",
+            "runtime": 58,
+            "airDate": "2015-06-28",
+            "rating": 8.0,
+            "overview": "The investigation stalls as political pressure mounts."
+          },
+          {
+            "id": "s2-e203",
+            "number": 3,
+            "title": "Maybe Tomorrow",
+            "runtime": 59,
+            "airDate": "2015-07-05",
+            "rating": 7.4,
+            "overview": "Velcoro returns to work while Frank seeks his missing money."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "year": 2019,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/True_Detective_season_3.png",
+        "episodes": [
+          {
+            "id": "s2-e301",
+            "number": 1,
+            "title": "The Great War and Modern Memory",
+            "runtime": 59,
+            "airDate": "2019-01-13",
+            "rating": 8.3,
+            "overview": "A macabre crime in the Ozarks spans three separate time periods."
+          },
+          {
+            "id": "s2-e302",
+            "number": 2,
+            "title": "Kingdom of Shadows",
+            "runtime": 57,
+            "airDate": "2019-01-13",
+            "rating": 8.2,
+            "overview": "Hays and West follow leads as the investigation widens."
+          },
+          {
+            "id": "s2-e303",
+            "number": 3,
+            "title": "The Big Never",
+            "runtime": 59,
+            "airDate": "2019-01-20",
+            "rating": 8.4,
+            "overview": "Hays struggles to hold onto his memories of the case."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "title": "Westworld",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/28/Westworld_season_1.png",
+    "network": "HBO",
+    "startYear": 2016,
+    "endYear": 2022,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 8.5,
+    "overview": "In a futuristic theme park populated by android hosts, the hosts begin to question the nature of their reality.",
+    "seasons": [
+      {
+        "number": 1,
+        "year": 2016,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/28/Westworld_season_1.png",
+        "episodes": [
+          {
+            "id": "s3-e101",
+            "number": 1,
+            "title": "The Original",
+            "runtime": 68,
+            "airDate": "2016-10-02",
+            "rating": 8.9,
+            "overview": "A glitch in the park's hosts raises questions about their programming."
+          },
+          {
+            "id": "s3-e102",
+            "number": 2,
+            "title": "Chestnut",
+            "runtime": 60,
+            "airDate": "2016-10-09",
+            "rating": 8.6,
+            "overview": "Two newcomers arrive in the park with very different expectations."
+          },
+          {
+            "id": "s3-e103",
+            "number": 3,
+            "title": "The Stray",
+            "runtime": 59,
+            "airDate": "2016-10-16",
+            "rating": 8.4,
+            "overview": "Bernard investigates a host that wanders off its loop."
+          },
+          {
+            "id": "s3-e104",
+            "number": 4,
+            "title": "Dissonance Theory",
+            "runtime": 59,
+            "airDate": "2016-10-23",
+            "rating": 8.8,
+            "overview": "Dolores and William venture deeper into the park."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "year": 2018,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Westworld_season_2.png",
+        "episodes": [
+          {
+            "id": "s3-e201",
+            "number": 1,
+            "title": "Journey into Night",
+            "runtime": 71,
+            "airDate": "2018-04-22",
+            "rating": 8.4,
+            "overview": "In the aftermath of the uprising, Bernard pieces together what happened."
+          },
+          {
+            "id": "s3-e202",
+            "number": 2,
+            "title": "Reunion",
+            "runtime": 60,
+            "airDate": "2018-04-29",
+            "rating": 8.2,
+            "overview": "Dolores recalls her past as she leads the hosts forward."
+          },
+          {
+            "id": "s3-e203",
+            "number": 3,
+            "title": "Virtù e Fortuna",
+            "runtime": 59,
+            "airDate": "2018-05-06",
+            "rating": 8.3,
+            "overview": "A new park is revealed as Maeve searches for her daughter."
+          }
+        ]
+      }
+    ]
+  }
+]

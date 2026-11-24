@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a1",
+    "name": "Leonardo DiCaprio",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg/500px-LeoPTABFI191125-28_%28cropped%29.jpg",
+    "birthYear": 1974,
+    "birthPlace": "Los Angeles, USA",
+    "bio": "Academy Award-winning actor known for ambitious collaborations with Martin Scorsese and Christopher Nolan."
+  },
+  {
+    "id": "a2",
+    "name": "Matthew McConaughey",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthew_McConaughey_at_the_2025_Toronto_Film_Festival_%283x4_cropped%29.jpg/500px-Matthew_McConaughey_at_the_2025_Toronto_Film_Festival_%283x4_cropped%29.jpg",
+    "birthYear": 1969,
+    "birthPlace": "Uvalde, USA",
+    "bio": "Texan actor whose career shifted from romantic comedies to acclaimed dramatic roles."
+  },
+  {
+    "id": "a3",
+    "name": "Christian Bale",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/500px-Christian_Bale-7837.jpg",
+    "birthYear": 1974,
+    "birthPlace": "Haverfordwest, Wales",
+    "bio": "Known for extreme physical transformations and for playing Bruce Wayne in the Dark Knight trilogy."
+  },
+  {
+    "id": "a4",
+    "name": "Cillian Murphy",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg/500px-Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg",
+    "birthYear": 1976,
+    "birthPlace": "Douglas, Ireland",
+    "bio": "Irish actor and long-time Nolan collaborator, Academy Award winner for Oppenheimer."
+  },
+  {
+    "id": "a5",
+    "name": "Tom Hardy",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Tom_Hardy_Locke_Premiere.jpg/500px-Tom_Hardy_Locke_Premiere.jpg",
+    "birthYear": 1977,
+    "birthPlace": "London, England",
+    "bio": "Versatile English actor famous for intense, physical performances."
+  },
+  {
+    "id": "a6",
+    "name": "Anne Hathaway",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/AnneHathaway-byPhilipRomano-Crop.jpg/500px-AnneHathaway-byPhilipRomano-Crop.jpg",
+    "birthYear": 1982,
+    "birthPlace": "New York City, USA",
+    "bio": "Academy Award-winning actress with a range spanning musicals to science fiction."
+  },
+  {
+    "id": "a7",
+    "name": "Margot Robbie",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg/500px-Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg",
+    "birthYear": 1990,
+    "birthPlace": "Dalby, Australia",
+    "bio": "Australian actress and producer, breakout role in The Wolf of Wall Street."
+  },
+  {
+    "id": "a8",
+    "name": "Joaquin Phoenix",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Joaquin_Phoenix-64908_%28cropped%29.jpg/500px-Joaquin_Phoenix-64908_%28cropped%29.jpg",
+    "birthYear": 1974,
+    "birthPlace": "San Juan, Puerto Rico",
+    "bio": "Acclaimed for transformative performances, Academy Award winner for Joker."
+  },
+  {
+    "id": "a9",
+    "name": "Michael Caine",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sir_Michael_Caine%2C_28th_EFA_Awards_2015%2C_Berlin_%28cropped%29.jpg",
+    "birthYear": 1933,
+    "birthPlace": "London, England",
+    "bio": "Legendary English actor with a career spanning over seven decades."
+  },
+  {
+    "id": "a10",
+    "name": "Florence Pugh",
+    "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Florence_Pugh_2026.jpg/500px-Florence_Pugh_2026.jpg",
+    "birthYear": 1996,
+    "birthPlace": "Oxford, England",
+    "bio": "English actress who rose quickly through indie hits and major franchises."
+  }
+]

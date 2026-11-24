@@ -1,0 +1,68 @@
+import { colors, createStyles, fontSize, fontWeight, radius, shadow, spacing } from '../theme';
+
+export const styles = createStyles({
+  posterCard: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: spacing.md,
+    padding: spacing.sm,
+    width: '100%',
+    textAlign: 'left',
+    background: colors.surface,
+    border: `1px solid ${colors.border}`,
+    borderRadius: radius.lg,
+    boxShadow: shadow.card,
+  },
+  rowCard: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: spacing.md,
+    padding: spacing.md,
+    width: '100%',
+    textAlign: 'left',
+    background: colors.surface,
+    border: `1px solid ${colors.border}`,
+    borderRadius: radius.lg,
+    boxShadow: shadow.card,
+  },
+  body: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: 2,
+    padding: `0 ${spacing.xs}px ${spacing.xs}px`,
+    minWidth: 0,
+  },
+  rowBody: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: 2,
+    minWidth: 0,
+    flex: 1,
+  },
+  title: {
+    margin: 0,
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.semibold,
+    color: colors.text,
+    whiteSpace: 'nowrap',
+    overflow: 'hidden',
+    textOverflow: 'ellipsis',
+  },
+  meta: {
+    fontSize: fontSize.xs + 1,
+    color: colors.textMuted,
+    whiteSpace: 'nowrap',
+    overflow: 'hidden',
+    textOverflow: 'ellipsis',
+  },
+  rating: {
+    color: colors.rating,
+    fontWeight: fontWeight.semibold,
+  },
+  footer: {
+    display: 'flex',
+    flexWrap: 'wrap',
+    gap: spacing.xs,
+    marginTop: spacing.sm - 2,
+  },
+});

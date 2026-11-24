@@ -1,0 +1,92 @@
+import { colors, createStyles, fontSize, fontWeight, radius, spacing } from '@/components/designSystem/theme';
+
+export const styles = createStyles({
+  sidebar: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: spacing.xl,
+    padding: `${spacing.xl}px ${spacing.md}px`,
+    background: colors.surface,
+    borderRight: `1px solid ${colors.border}`,
+  },
+  brand: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: spacing.sm + 2,
+    padding: `0 ${spacing.sm}px`,
+    flexShrink: 0,
+  },
+  brandMark: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: 30,
+    height: 30,
+    borderRadius: radius.md,
+    background: colors.primary,
+    color: colors.onPrimary,
+  },
+  brandText: {
+    display: 'flex',
+    flexDirection: 'column',
+    lineHeight: 1.2,
+  },
+  brandName: {
+    fontSize: fontSize.sm + 1,
+    fontWeight: fontWeight.semibold,
+    letterSpacing: '-0.01em',
+  },
+  brandSubtitle: {
+    fontSize: fontSize.xs,
+    color: colors.textSubtle,
+  },
+  section: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: 2,
+  },
+  sectionTitle: {
+    padding: `0 ${spacing.sm + 2}px ${spacing.xs + 2}px`,
+    fontSize: fontSize.xs - 1,
+    fontWeight: fontWeight.medium,
+    letterSpacing: '0.06em',
+    textTransform: 'uppercase',
+    color: colors.textSubtle,
+  },
+  link: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: spacing.sm + 2,
+    padding: `${spacing.sm - 1}px ${spacing.sm + 2}px`,
+    borderRadius: radius.md,
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
+    color: colors.textMuted,
+    whiteSpace: 'nowrap',
+    transition: 'background-color 0.15s ease, color 0.15s ease',
+  },
+  linkActive: {
+    background: colors.surfaceRaised,
+    color: colors.text,
+  },
+  linkLabel: {
+    flex: 1,
+  },
+  counter: {
+    minWidth: 20,
+    padding: '0 6px',
+    borderRadius: radius.pill,
+    fontSize: fontSize.xs - 1,
+    fontWeight: fontWeight.semibold,
+    lineHeight: '18px',
+    textAlign: 'center',
+    background: colors.primarySoft,
+    color: colors.primary,
+  },
+  footer: {
+    marginTop: 'auto',
+    padding: `0 ${spacing.sm + 2}px`,
+    fontSize: fontSize.xs,
+    color: colors.textSubtle,
+  },
+});
